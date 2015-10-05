@@ -1,0 +1,16 @@
+04.IX.2012
+1)The individual parameters are replaced by a format string.
+2)Added new -d parameter for daemonizing.
+
+03.VIII.2012
+1)The sequence of output values depends on the command line parameters order
+
+02.VIII.2012
+1) Added -m parameter, which shows total/free mem;
+
+19.VII.2012
+1) Got rid of multiply open/close function calls;
+2) Got rid of malloc/free;
+
+17.VII.2012
+1) It works!
